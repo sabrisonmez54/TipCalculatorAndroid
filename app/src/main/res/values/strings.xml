@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TipCalculatorMP1</string>
+    <string name="bill_amount">enter amount</string>
+    <string name="enter_amount_hint">Enter amount: $0.0 </string>
+    <string name="tip_label">Tip: </string>
+    <string name="total_label">Total: </string>
+    <string name="tip_text">$ 0.0</string>
+    <string name="tip_percent_text">15%</string>
+    <string name="total_text">$ 0.0</string>
+</resources>
